@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarshallRifqi
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript, PHP
+- 🌱 I’m currently learning Javascript & PHP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
