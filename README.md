@@ -1,5 +1,5 @@
 <h2 align="left">Hello World 👋!</h2>
-<p>I am Marshall Rifqi Saputra a passionate university student majoring in Software Engineering with a keen interest in front-end development. </p>
+<p>I am Marshall Rifqi Saputra a passionate university student majoring in Software Engineering with a keen interest in back end development. </p>
 
 ###
 <br>
